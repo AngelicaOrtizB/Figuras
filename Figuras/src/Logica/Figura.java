@@ -7,6 +7,10 @@ public abstract class Figura {
 		super();
 		this.lado1 = lado1;
 	}
+	public abstract double perimetro ();
+	public abstract double area();
+	
+}
 	
 
-}
+
